@@ -1,0 +1,8 @@
+com\ufranco\checkDolarPrice\EntryClass.class
+module-info.class
+com\ufranco\checkDolarPrice\EntryClass$1.class
+com\ufranco\checkDolarPrice\AlertBox.class
+com\ufranco\checkDolarPrice\ConfirmBox.class
+com\ufranco\checkDolarPrice\DesktopNotification$AppFocusListener.class
+com\ufranco\checkDolarPrice\DesktopNotification.class
+com\ufranco\checkDolarPrice\models\Currency.class
