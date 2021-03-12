@@ -2,9 +2,6 @@ package com.ufranco.checkDolarPrice;
 
 import com.ufranco.checkDolarPrice.models.Currency;
 import javafx.application.Application;
-import javafx.scene.Scene;
-import javafx.scene.control.Button;
-import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 
 import java.awt.*;
@@ -19,13 +16,14 @@ import java.util.TimerTask;
 
 import static java.lang.String.format;
 
-
 public class EntryClass extends Application {
 
+    /*
     Stage window;
     Scene scene1, scene2, scene3;
     GridPane grid;
     Button button1, button2, button3;
+    */
     Label labelMabel = new Label();
     DesktopNotification notification = new DesktopNotification(labelMabel);
 
