@@ -6,6 +6,7 @@ build/
 src/main/gen
 src/main/resources/templates.list
 src/main/resources/gitignore/*
+target/
 
 # Compiled class file
 *.class
